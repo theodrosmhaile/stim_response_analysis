@@ -1,0 +1,1168 @@
+practice1 stiA 3 1500
+practice1 stiB 2 1439
+practice1 stiA 2 701
+practice1 stiB 3 1500
+practice1 stiA 2 716
+practice1 stiB 2 250
+practice1 stiA 2 767
+practice1 stiB 1 592
+practice1 stiA 2 523
+practice1 stiB 1 685
+practice1 stiA 2 667
+practice1 stiB 2 387
+practice1 stiA 2 465
+practice1 stiB 2 783
+practice1 stiA 2 536
+practice1 stiB 2 410
+practice1 stiA 2 263
+practice1 stiB 2 295
+practice1 stiA 2 195
+practice1 stiB 2 442
+practice1 stiA 2 398
+practice1 stiB 1 259
+practice1 stiA 2 324
+practice1 stiB 1 426
+practice1 stiA 2 557
+practice1 stiB 1 607
+n31 stiC 2 694
+n31 stiA 2 920
+n31 stiC 1 573
+n31 stiA 2 724
+n31 stiC 1 412
+n31 stiA 2 694
+n31 stiB 2 1370
+n31 stiC 2 282
+n31 stiA 2 330
+n31 stiB 1 1120
+n31 stiC 1 899
+n31 stiA 2 893
+n31 stiB 2 427
+n31 stiC 1 502
+n31 stiA 1 1063
+n31 stiB 2 826
+n31 stiC 2 444
+n31 stiB 1 372
+n31 stiA 2 548
+n31 stiB 2 315
+n31 stiC 2 275
+n31 stiB 2 455
+n31 stiA 1 993
+n31 stiB 2 614
+n31 stiC 1 338
+n31 stiB 1 601
+n31 stiA 2 428
+n31 stiC 1 448
+n31 stiA 2 584
+n31 stiB 2 286
+n31 stiC 2 242
+n31 stiA 2 244
+n31 stiB 1 294
+n31 stiC 1 528
+n31 stiB 1 603
+n31 stiA 2 655
+n31 stiB 2 389
+n31 stiA 1 471
+n31 stiC 2 534
+n61 stiA 2 323
+n61 stiD 2 289
+n61 stiC 2 357
+n61 stiE 2 333
+n61 stiD 2 423
+n61 stiB 1 361
+n61 stiF 1 873
+n61 stiE 2 852
+n61 stiD 2 255
+n61 stiB 2 310
+n61 stiF 2 321
+n61 stiC 2 304
+n61 stiF 2 318
+n61 stiB 2 80
+n61 stiE 2 123
+n61 stiB 2 13
+n61 stiA 1 56
+n61 stiE 1 457
+n61 stiA 2 509
+n61 stiD 2 308
+n61 stiC 1 194
+n61 stiE 2 647
+n61 stiB 2 171
+n61 stiA 2 546
+n61 stiD 2 388
+n61 stiA 1 718
+n61 stiF 2 683
+n61 stiD 2 395
+n61 stiE 2 838
+n61 stiB 1 702
+n61 stiF 2 647
+n61 stiE 2 564
+n61 stiF 2 894
+n61 stiB 2 1388
+n61 stiC 3 1500
+n61 stiA 2 440
+n61 stiC 2 259
+n61 stiE 1 182
+n61 stiD 2 344
+n61 stiA 2 556
+n61 stiC 2 265
+n61 stiB 2 284
+n61 stiC 2 327
+n61 stiA 1 344
+n61 stiD 1 393
+n61 stiE 2 551
+n61 stiB 2 366
+n61 stiF 2 462
+n61 stiE 2 439
+n61 stiD 2 177
+n61 stiE 2 422
+n61 stiF 2 275
+n61 stiA 2 300
+n61 stiF 2 494
+n61 stiA 1 433
+n61 stiB 2 388
+n61 stiD 2 322
+n61 stiF 1 398
+n61 stiB 2 567
+n61 stiC 2 346
+n61 stiF 2 547
+n61 stiB 1 456
+n61 stiF 2 402
+n61 stiC 1 329
+n61 stiD 2 371
+n61 stiC 2 459
+n61 stiB 2 422
+n61 stiD 2 304
+n61 stiE 2 459
+n61 stiC 2 453
+n61 stiA 2 433
+n61 stiC 2 285
+n61 stiE 2 674
+n61 stiC 2 301
+n61 stiA 2 239
+n61 stiD 2 188
+n61 stiF 1 464
+n61 stiA 1 655
+n32 stiA 2 762
+n32 stiC 2 361
+n32 stiA 2 164
+n32 stiC 2 343
+n32 stiB 2 249
+n32 stiA 2 326
+n32 stiB 2 305
+n32 stiC 2 200
+n32 stiA 1 202
+n32 stiC 2 947
+n32 stiA 2 388
+n32 stiC 2 412
+n32 stiA 3 1500
+n32 stiC 1 288
+n32 stiA 2 282
+n32 stiC 2 223
+n32 stiB 2 277
+n32 stiC 2 186
+n32 stiB 2 336
+n32 stiA 1 343
+n32 stiB 2 353
+n32 stiC 2 203
+n32 stiB 2 376
+n32 stiA 2 240
+n32 stiB 2 231
+n32 stiA 1 347
+n32 stiC 2 257
+n32 stiA 2 237
+n32 stiB 2 497
+n32 stiC 1 413
+n32 stiB 2 554
+n32 stiC 2 327
+n32 stiB 2 441
+n32 stiA 2 423
+n32 stiB 2 297
+n32 stiA 2 299
+n32 stiB 2 405
+n32 stiC 2 305
+n32 stiB 2 250
+n33 stiB 2 77
+n33 stiA 2 301
+n33 stiC 2 276
+n33 stiB 2 532
+n33 stiC 2 426
+n33 stiB 2 363
+n33 stiC 2 430
+n33 stiB 2 284
+n33 stiA 2 374
+n33 stiB 2 325
+n33 stiC 1 403
+n33 stiA 1 367
+n33 stiB 1 273
+n33 stiA 2 341
+n33 stiC 2 333
+n33 stiB 1 269
+n33 stiA 2 336
+n33 stiB 2 193
+n33 stiA 2 309
+n33 stiB 1 313
+n33 stiA 2 313
+n33 stiC 2 456
+n33 stiB 2 352
+n33 stiC 2 349
+n33 stiA 2 302
+n33 stiC 1 406
+n33 stiA 2 479
+n33 stiC 2 271
+n33 stiA 1 396
+n33 stiB 2 398
+n33 stiC 2 267
+n33 stiA 2 416
+n33 stiC 1 370
+n33 stiB 2 460
+n33 stiA 2 381
+n33 stiC 2 481
+n33 stiB 2 563
+n33 stiA 1 346
+n33 stiC 2 428
+n62 stiF 1 364
+n62 stiB 1 362
+n62 stiA 1 259
+n62 stiD 2 482
+n62 stiF 2 306
+n62 stiE 1 484
+n62 stiC 2 377
+n62 stiF 1 329
+n62 stiE 1 601
+n62 stiF 2 370
+n62 stiB 2 237
+n62 stiF 2 429
+n62 stiC 2 246
+n62 stiD 1 242
+n62 stiC 1 217
+n62 stiF 2 349
+n62 stiD 1 170
+n62 stiB 2 637
+n62 stiC 2 293
+n62 stiE 2 257
+n62 stiA 2 311
+n62 stiB 1 269
+n62 stiD 1 321
+n62 stiE 1 245
+n62 stiB 2 190
+n62 stiC 2 53
+n62 stiE 2 146
+n62 stiF 2 135
+n62 stiA 2 230
+n62 stiB 2 84
+n62 stiD 2 357
+n62 stiB 2 661
+n62 stiE 2 356
+n62 stiC 2 308
+n62 stiB 2 448
+n62 stiE 2 326
+n62 stiD 2 22
+n62 stiC 1 245
+n62 stiD 2 350
+n62 stiB 2 287
+n62 stiD 2 279
+n62 stiA 2 760
+n62 stiE 2 153
+n62 stiA 2 432
+n62 stiD 2 302
+n62 stiC 2 544
+n62 stiA 2 479
+n62 stiF 2 432
+n62 stiE 1 418
+n62 stiC 2 319
+n62 stiA 2 123
+n62 stiD 1 437
+n62 stiC 2 360
+n62 stiF 1 303
+n62 stiA 2 622
+n62 stiE 2 320
+n62 stiC 2 179
+n62 stiE 2 379
+n62 stiC 2 305
+n62 stiF 1 293
+n62 stiA 2 358
+n62 stiB 1 289
+n62 stiA 2 432
+n62 stiE 2 544
+n62 stiA 2 333
+n62 stiD 2 194
+n62 stiF 2 431
+n62 stiA 1 341
+n62 stiB 2 594
+n62 stiF 2 416
+n62 stiA 2 282
+n62 stiE 2 302
+n62 stiB 2 405
+n62 stiC 2 457
+n62 stiF 1 347
+n62 stiD 2 454
+n62 stiB 2 344
+n62 stiD 2 338
+n34 stiC 2 285
+n34 stiB 2 352
+n34 stiC 2 293
+n34 stiA 2 168
+n34 stiC 2 396
+n34 stiA 1 284
+n34 stiB 2 319
+n34 stiA 2 292
+n34 stiC 2 185
+n34 stiA 1 387
+n34 stiB 2 399
+n34 stiC 2 294
+n34 stiA 2 387
+n34 stiB 2 415
+n34 stiA 2 575
+n34 stiB 1 674
+n34 stiC 2 303
+n34 stiB 2 349
+n34 stiA 1 584
+n34 stiC 2 379
+n34 stiB 2 611
+n34 stiA 2 170
+n34 stiB 1 412
+n34 stiC 2 261
+n34 stiA 1 271
+n34 stiB 2 455
+n34 stiC 2 207
+n34 stiA 2 229
+n34 stiC 1 194
+n34 stiA 2 390
+n34 stiB 2 361
+n34 stiC 2 347
+n34 stiB 1 514
+n34 stiA 2 530
+n34 stiB 2 345
+n34 stiC 2 580
+n34 stiB 1 346
+n34 stiA 2 394
+n34 stiC 2 399
+n63 stiA 2 350
+n63 stiF 2 306
+n63 stiB 1 314
+n63 stiE 2 299
+n63 stiD 2 333
+n63 stiE 1 468
+n63 stiF 2 411
+n63 stiE 1 349
+n63 stiF 2 340
+n63 stiD 2 289
+n63 stiB 2 371
+n63 stiC 2 342
+n63 stiF 2 383
+n63 stiD 2 260
+n63 stiB 2 685
+n63 stiC 2 462
+n63 stiF 1 221
+n63 stiC 1 323
+n63 stiA 2 373
+n63 stiE 2 406
+n63 stiF 2 412
+n63 stiB 2 492
+n63 stiE 2 287
+n63 stiF 2 283
+n63 stiB 2 575
+n63 stiD 2 70
+n63 stiA 2 40
+n63 stiB 1 278
+n63 stiD 2 809
+n63 stiE 2 1105
+n63 stiF 2 254
+n63 stiE 1 197
+n63 stiC 2 324
+n63 stiD 2 573
+n63 stiC 2 370
+n63 stiA 1 330
+n63 stiE 2 373
+n63 stiB 1 233
+n63 stiC 1 299
+n63 stiA 1 597
+n63 stiD 2 342
+n63 stiC 1 390
+n63 stiE 2 376
+n63 stiA 2 56
+n63 stiF 2 519
+n63 stiE 2 611
+n63 stiB 1 317
+n63 stiC 1 350
+n63 stiD 1 327
+n63 stiC 2 343
+n63 stiD 2 266
+n63 stiA 2 309
+n63 stiE 2 377
+n63 stiF 2 388
+n63 stiB 1 444
+n63 stiA 2 549
+n63 stiB 1 342
+n63 stiC 2 355
+n63 stiF 1 349
+n63 stiB 1 338
+n63 stiC 2 412
+n63 stiA 2 326
+n63 stiD 2 383
+n63 stiC 2 413
+n63 stiD 2 408
+n63 stiE 2 362
+n63 stiA 2 405
+n63 stiF 2 431
+n63 stiA 2 400
+n63 stiB 2 440
+n63 stiD 2 402
+n63 stiA 2 474
+n63 stiC 1 270
+n63 stiE 2 699
+n63 stiB 1 1275
+n63 stiA 2 784
+n63 stiF 2 374
+n63 stiD 1 345
+report1 "30" 40936
+report1 "20" 11186
+report1 "20" 11591
+report1 "30" 3208
+report2 "2" 29651
+m61 stiF 2 671
+m61 stiC 2 267
+m61 stiA 2 191
+m61 stiF 1 279
+m61 stiE 2 181
+m61 stiC 2 263
+m61 stiE 2 240
+m61 stiD 2 400
+m61 stiF 2 174
+m61 stiB 2 170
+m61 stiC 2 158
+m61 stiA 2 228
+m61 stiB 2 145
+m61 stiF 2 398
+m61 stiC 2 327
+m61 stiA 1 247
+m61 stiD 1 396
+m61 stiE 1 276
+m61 stiB 2 247
+m61 stiC 2 364
+m61 stiB 2 282
+m61 stiA 2 738
+m61 stiB 1 297
+m61 stiD 1 341
+m61 stiF 1 540
+m61 stiB 2 615
+m61 stiF 2 197
+m61 stiE 1 321
+m61 stiC 1 398
+m61 stiD 2 397
+m61 stiE 2 239
+m61 stiA 2 662
+m61 stiC 2 333
+m61 stiA 1 291
+m61 stiB 2 428
+m61 stiA 2 257
+m61 stiE 2 274
+m61 stiD 2 518
+m61 stiF 2 188
+m61 stiA 1 1185
+m61 stiF 2 304
+m61 stiB 1 281
+m61 stiF 1 323
+m61 stiD 2 212
+m61 stiA 1 298
+m61 stiC 2 368
+m61 stiF 2 255
+m61 stiE 2 188
+m61 stiC 1 235
+m61 stiB 2 286
+m61 stiD 1 147
+m61 stiC 2 153
+m61 stiD 2 162
+m61 stiA 1 199
+m61 stiB 1 302
+m61 stiE 2 234
+m61 stiA 1 20
+m61 stiE 1 113
+m61 stiD 2 96
+m61 stiC 2 27
+m61 stiA 1 112
+m61 stiD 2 526
+m61 stiE 2 493
+m61 stiA 2 253
+m61 stiE 2 180
+m61 stiF 2 392
+m61 stiB 2 266
+m61 stiD 2 271
+m61 stiB 2 333
+m61 stiE 1 398
+m61 stiC 1 272
+m61 stiF 1 444
+m61 stiD 2 510
+m61 stiC 2 168
+m61 stiB 1 288
+m61 stiD 2 519
+m61 stiE 2 231
+m61 stiF 2 371
+report1 "20" 10559
+report1 "30" 3499
+report1 "30" 2258
+report1 "20" 1709
+report2 "3" 7607
+m31 stiA 2 313
+m31 stiC 1 365
+m31 stiA 2 219
+m31 stiC 2 160
+m31 stiB 2 256
+m31 stiA 2 60
+m31 stiC 2 216
+m31 stiA 2 126
+m31 stiC 1 420
+m31 stiB 2 308
+m31 stiA 1 207
+m31 stiC 2 451
+m31 stiB 2 303
+m31 stiC 1 229
+m31 stiB 2 200
+m31 stiA 1 197
+m31 stiC 1 374
+m31 stiB 2 245
+m31 stiA 2 179
+m31 stiC 2 247
+m31 stiB 2 545
+m31 stiC 1 61
+m31 stiB 2 169
+m31 stiA 1 72
+m31 stiB 2 179
+m31 stiA 2 539
+m31 stiC 2 250
+m31 stiB 2 267
+m31 stiC 2 420
+m31 stiA 1 303
+m31 stiC 1 241
+m31 stiB 2 149
+m31 stiC 1 333
+m31 stiB 1 112
+m31 stiA 1 293
+m31 stiB 2 349
+m31 stiA 2 215
+m31 stiB 2 74
+m31 stiA 1 82
+report1 "20" 4395
+report1 "30" 2689
+report1 "20" 2045
+report1 "30" 1713
+report2 "3" 1889
+m32 stiC 2 336
+m32 stiB 2 190
+m32 stiA 2 68
+m32 stiB 2 267
+m32 stiC 2 140
+m32 stiB 2 122
+m32 stiC 2 53
+m32 stiA 1 160
+m32 stiC 1 241
+m32 stiA 1 165
+m32 stiC 2 79
+m32 stiB 2 1
+m32 stiA 2 445
+m32 stiC 2 547
+m32 stiA 2 401
+m32 stiB 1 244
+m32 stiC 2 97
+m32 stiB 2 645
+m32 stiA 2 432
+m32 stiC 2 224
+m32 stiB 2 393
+m32 stiA 2 107
+m32 stiC 1 80
+m32 stiB 2 262
+m32 stiC 1 25
+m32 stiA 1 422
+m32 stiC 2 245
+m32 stiB 1 196
+m32 stiA 2 352
+m32 stiB 1 160
+m32 stiA 1 630
+m32 stiB 2 98
+m32 stiC 2 38
+m32 stiA 2 9
+m32 stiB 2 312
+m32 stiA 2 297
+m32 stiC 2 353
+m32 stiA 2 293
+m32 stiB 2 362
+report1 "40" 5874
+report1 "20" 1767
+report1 "20" 3632
+report1 "20" 1191
+report2 "2" 5143
+m62 stiA 2 335
+m62 stiE 2 420
+m62 stiA 2 320
+m62 stiC 2 319
+m62 stiD 1 292
+m62 stiF 2 300
+m62 stiD 2 335
+m62 stiC 1 337
+m62 stiA 1 307
+m62 stiF 2 393
+m62 stiB 1 259
+m62 stiF 1 581
+m62 stiC 2 344
+m62 stiF 1 315
+m62 stiA 2 302
+m62 stiD 1 310
+m62 stiF 1 323
+m62 stiE 1 411
+m62 stiD 1 355
+m62 stiB 2 323
+m62 stiD 1 178
+m62 stiB 1 272
+m62 stiE 2 253
+m62 stiF 2 122
+m62 stiB 1 432
+m62 stiC 2 238
+m62 stiD 1 235
+m62 stiC 2 275
+m62 stiF 1 280
+m62 stiB 1 268
+m62 stiE 2 435
+m62 stiC 1 197
+m62 stiF 2 457
+m62 stiB 1 44
+m62 stiA 2 311
+m62 stiD 2 298
+m62 stiF 2 190
+m62 stiE 1 138
+m62 stiD 2 293
+m62 stiC 2 384
+m62 stiD 1 7
+m62 stiE 2 104
+m62 stiF 2 67
+m62 stiB 2 68
+m62 stiA 2 408
+m62 stiF 2 196
+m62 stiB 1 135
+m62 stiA 2 398
+m62 stiC 1 224
+m62 stiD 2 335
+m62 stiA 1 114
+m62 stiC 2 297
+m62 stiD 2 241
+m62 stiF 2 121
+m62 stiA 2 174
+m62 stiE 2 390
+m62 stiB 2 222
+m62 stiD 2 381
+m62 stiC 1 388
+m62 stiA 2 386
+m62 stiE 2 149
+m62 stiA 2 219
+m62 stiD 2 516
+m62 stiE 1 254
+m62 stiF 2 228
+m62 stiB 2 165
+m62 stiC 2 252
+m62 stiE 2 154
+m62 stiC 2 385
+m62 stiE 2 466
+m62 stiB 1 123
+m62 stiA 1 266
+m62 stiC 2 145
+m62 stiB 2 190
+m62 stiE 2 250
+m62 stiA 2 7
+m62 stiE 2 32
+m62 stiB 2 332
+report1 "20" 4956
+report1 "30" 1431
+report1 "20" 1529
+report1 "30" 1549
+report2 "3" 1627
+m33 stiC 2 250
+m33 stiB 2 307
+m33 stiC 2 332
+m33 stiA 2 173
+m33 stiB 1 402
+m33 stiC 2 331
+m33 stiA 2 340
+m33 stiC 1 240
+m33 stiB 1 347
+m33 stiA 1 521
+m33 stiB 2 347
+m33 stiC 2 248
+m33 stiA 2 304
+m33 stiC 1 273
+m33 stiA 2 332
+m33 stiC 2 353
+m33 stiB 2 300
+m33 stiA 2 339
+m33 stiB 1 419
+m33 stiC 1 299
+m33 stiA 2 265
+m33 stiC 2 259
+m33 stiA 1 389
+m33 stiC 2 322
+m33 stiB 2 228
+m33 stiA 2 406
+m33 stiB 2 558
+m33 stiC 2 448
+m33 stiA 2 327
+m33 stiB 2 372
+m33 stiC 2 358
+m33 stiB 1 330
+m33 stiA 2 354
+m33 stiB 2 261
+m33 stiA 2 316
+m33 stiB 2 282
+m33 stiC 2 389
+m33 stiB 1 99
+m33 stiA 1 714
+report1 "30" 2940
+report1 "20" 1942
+report1 "10" 3414
+report1 "40" 1550
+report2 "3" 1577
+m63 stiC 2 653
+m63 stiF 2 265
+m63 stiB 2 315
+m63 stiE 2 582
+m63 stiD 2 162
+m63 stiB 2 123
+m63 stiE 2 98
+m63 stiA 1 602
+m63 stiC 2 92
+m63 stiD 2 499
+m63 stiF 2 214
+m63 stiE 1 94
+m63 stiA 2 307
+m63 stiD 2 113
+m63 stiC 1 691
+m63 stiB 1 303
+m63 stiF 2 235
+m63 stiC 1 201
+m63 stiA 1 592
+m63 stiD 1 244
+m63 stiF 2 396
+m63 stiD 1 230
+m63 stiC 2 382
+m63 stiB 2 106
+m63 stiE 1 218
+m63 stiA 1 224
+m63 stiC 2 276
+m63 stiA 2 16
+m63 stiC 2 261
+m63 stiA 1 71
+m63 stiC 2 285
+m63 stiF 2 57
+m63 stiA 2 394
+m63 stiF 1 150
+m63 stiB 2 269
+m63 stiE 2 588
+m63 stiD 2 61
+m63 stiB 2 112
+m63 stiF 2 179
+m63 stiA 2 110
+m63 stiB 2 255
+m63 stiF 2 25
+m63 stiD 1 50
+m63 stiE 2 249
+m63 stiF 2 46
+m63 stiA 2 40
+m63 stiB 1 269
+m63 stiC 2 176
+m63 stiF 2 250
+m63 stiE 1 183
+m63 stiA 2 328
+m63 stiE 2 226
+m63 stiD 2 125
+m63 stiF 2 432
+m63 stiE 2 42
+m63 stiD 1 207
+m63 stiB 2 251
+m63 stiD 1 384
+m63 stiE 1 377
+m63 stiA 2 182
+m63 stiC 2 278
+m63 stiA 2 300
+m63 stiC 1 101
+m63 stiF 2 364
+m63 stiB 2 270
+m63 stiD 2 380
+m63 stiE 2 282
+m63 stiB 2 392
+m63 stiD 1 384
+m63 stiA 2 285
+m63 stiB 2 196
+m63 stiF 1 520
+m63 stiC 2 444
+m63 stiE 1 246
+m63 stiB 2 439
+m63 stiD 2 218
+m63 stiE 2 364
+m63 stiC 1 320
+report1 "30" 3945
+report1 "20" 1630
+report1 "20" 1493
+report1 "30" 1929
+report2 "3" 1075
+m34 stiB 1 329
+m34 stiC 2 372
+m34 stiB 2 276
+m34 stiA 1 254
+m34 stiC 2 301
+m34 stiA 1 454
+m34 stiB 1 246
+m34 stiA 2 50
+m34 stiB 2 421
+m34 stiC 2 253
+m34 stiA 1 271
+m34 stiC 2 354
+m34 stiA 2 260
+m34 stiB 2 395
+m34 stiC 1 335
+m34 stiB 2 364
+m34 stiA 2 305
+m34 stiC 2 282
+m34 stiB 1 644
+m34 stiC 2 565
+m34 stiA 2 412
+m34 stiC 1 527
+m34 stiB 2 406
+m34 stiA 1 410
+m34 stiC 2 505
+m34 stiA 2 639
+m34 stiC 2 368
+m34 stiB 2 658
+m34 stiA 2 445
+m34 stiB 2 449
+m34 stiC 2 469
+m34 stiB 1 619
+m34 stiA 2 642
+m34 stiB 1 1051
+m34 stiC 2 244
+m34 stiB 1 277
+m34 stiA 2 51
+m34 stiC 2 576
+m34 stiA 2 48
+report1 "40" 6122
+report1 "30" 1907
+report1 "20" 1682
+report1 "10" 1899
+report2 "3" 3979
+pracnb2 69 3 1000 1 Initial
+pracnb2 76 2 146 2 Initial
+pracnb2 69 3 1000 3 Match
+pracnb2 68 3 1000 4 Nonmatch
+pracnb2 69 2 951 5 Match
+pracnb2 67 2 338 6 Nonmatch
+pracnb2 65 3 1000 7 Nonmatch
+pracnb2 66 1 743 8 Nonmatch
+pracnb2 65 2 934 9 Match
+pracnb2 64 2 555 10 Nonmatch
+pracnb2 65 3 1000 11 Match
+pracnb2 64 1 606 12 Match
+nb2 78 2 802 1 Initial
+nb2 74 3 1000 2 Initial
+nb2 78 1 889 3 Match
+nb2 78 2 766 4 Distractor
+nb2 71 1 980 5 NonMatch
+nb2 64 1 755 6 NonMatch
+nb2 71 3 1000 7 Match
+nb2 71 2 245 8 Distractor
+nb2 65 1 371 9 NonMatch
+nb2 65 2 800 10 Distractor
+nb2 65 1 485 11 Match
+nb2 69 1 427 12 NonMatch
+nb2 72 2 578 13 NonMatch
+nb2 69 2 758 14 Match
+nb2 72 2 528 15 Match
+nb2 72 2 467 16 Distractor
+nb2 72 1 572 17 Match
+nb2 75 2 639 18 Match
+nb2 72 1 354 19 Match
+nb2 72 1 558 20 Distractor
+nb2 72 1 826 21 Match
+nb2 63 1 342 22 NonMatch
+nb3 64 2 565 1 Initial
+nb3 67 3 1000 2 Initial
+nb3 74 3 1000 3 Initial
+nb3 64 2 966 4 Match
+nb3 74 3 1000 5 Distractor
+nb3 67 3 1000 6 Distractor
+nb3 64 1 413 7 Match
+nb3 71 1 919 8 NonMatch
+nb3 64 3 1000 9 Distractor
+nb3 66 1 855 10 NonMatch
+nb3 71 2 718 11 Match
+nb3 64 1 510 12 Match
+nb3 75 1 645 13 NonMatch
+nb3 71 2 726 14 Match
+nb3 64 1 876 15 Match
+nb3 65 1 575 16 NonMatch
+nb3 71 3 1000 17 Match
+nb3 64 3 1000 18 Match
+nb3 65 2 939 19 Match
+nb3 66 1 642 20 NonMatch
+nb3 65 1 681 21 Distractor
+nb3 64 1 492 22 Distractor
+nb3 66 2 802 23 Match
+4b 67 3 1000 1 Initial
+4b 72 3 1000 2 Initial
+4b 69 3 1000 3 Initial
+4b 75 3 1000 4 Initial
+4b 67 1 739 5 Match
+4b 69 3 1000 6 Distractor
+4b 78 1 790 7 NonMatch
+4b 75 1 668 8 Match
+4b 63 1 607 9 NonMatch
+4b 75 1 499 10 Distractor
+4b 78 2 553 11 Match
+4b 63 1 520 12 Distractor
+4b 63 2 613 13 Match
+4b 67 1 600 14 NonMatch
+4b 78 2 953 15 Match
+4b 63 2 827 16 Match
+4b 63 1 840 17 Distractor
+4b 67 3 1000 18 Match
+4b 78 2 641 19 Match
+4b 65 1 794 20 NonMatch
+4b 66 1 923 21 NonMatch
+4b 67 3 1000 22 Match
+4b 65 1 912 23 Distractor
+4b 65 3 1000 24 Match
+nb5 65 3 1000 1 Initial
+nb5 67 3 1000 2 Initial
+nb5 69 3 1000 3 Initial
+nb5 78 3 1000 4 Initial
+nb5 73 3 1000 5 Initial
+nb5 65 3 1000 6 Match
+nb5 78 3 1000 7 Distractor
+nb5 69 1 651 8 Match
+nb5 73 3 1000 9 Distractor
+nb5 77 3 1000 10 NonMatch
+nb5 76 1 799 11 NonMatch
+nb5 73 3 1000 12 Distractor
+nb5 78 1 871 13 Nonmatch
+nb5 73 3 1000 14 Match
+nb5 77 1 583 15 Match
+nb5 73 1 974 16 Distractor
+nb5 73 3 1000 17 Match
+nb5 65 3 1000 18 NonMatch
+nb5 73 2 962 19 Match
+nb5 77 3 1000 20 Match
+nb5 73 3 1000 21 Match
+nb5 66 3 1000 22 NonMatch
+nb5 65 3 1000 23 Match
+nb5 65 1 904 24 Distractor
+nb5 77 2 909 25 Match
+testing 19 2 908
+testing 35 2 898
+testing 39 2 581
+testing 54 1 419
+testing 56 2 183
+testing 40 1 410
+testing 39 1 479
+testing 49 2 369
+testing 30 2 555
+testing 50 1 332
+testing 34 2 558
+testing 7 2 459
+testing 10 2 588
+testing 40 2 612
+testing 57 2 794
+testing 54 2 668
+testing 55 2 149
+testing 59 1 458
+testing 24 1 458
+testing 57 2 483
+testing 22 2 441
+testing 30 1 333
+testing 21 2 547
+testing 46 2 435
+testing 48 2 495
+testing 39 2 312
+testing 15 1 351
+testing 50 2 433
+testing 10 2 409
+testing 60 1 415
+testing 42 2 727
+testing 45 2 579
+testing 25 2 453
+testing 8 2 283
+testing 45 1 695
+testing 49 2 504
+testing 7 2 220
+testing 27 2 279
+testing 11 2 697
+testing 38 2 730
+testing 25 2 376
+testing 33 1 333
+testing 19 2 732
+testing 50 2 388
+testing 35 2 961
+testing 52 2 570
+testing 25 2 607
+testing 15 2 862
+testing 45 2 480
+testing 12 1 377
+testing 21 2 462
+testing 24 2 408
+testing 34 2 556
+testing 17 2 1003
+testing 59 2 499
+testing 54 2 421
+testing 20 1 600
+testing 35 2 554
+testing 41 1 266
+testing 11 2 362
+testing 51 2 371
+testing 16 1 1232
+testing 52 2 405
+testing 59 2 738
+testing 15 2 655
+testing 20 2 343
+testing 38 1 647
+testing 18 2 575
+testing 46 1 754
+testing 53 1 578
+testing 35 2 613
+testing 18 1 627
+testing 57 1 779
+testing 44 2 696
+testing 12 2 730
+testing 39 1 603
+testing 17 2 474
+testing 16 1 391
+testing 28 1 614
+testing 58 1 431
+testing 40 2 848
+testing 47 1 394
+testing 9 2 807
+testing 55 2 434
+testing 38 2 1146
+testing 44 1 349
+testing 43 2 131
+testing 11 2 5
+testing 27 2 557
+testing 28 2 446
+testing 24 2 435
+testing 36 2 705
+testing 60 2 591
+testing 44 1 516
+testing 41 2 444
+testing 53 2 440
+testing 46 2 477
+testing 53 2 363
+testing 26 2 299
+testing 9 1 389
+testing 12 1 390
+testing 37 1 454
+testing 43 2 421
+testing 9 1 696
+testing 54 1 293
+testing 33 2 879
+testing 43 2 474
+testing 38 2 901
+testing 32 1 1083
+testing 17 1 665
+testing 49 1 284
+testing 21 2 383
+testing 56 2 697
+testing 22 2 605
+testing 40 1 687
+testing 21 2 676
+testing 47 2 834
+testing 58 2 842
+testing 34 2 737
+testing 18 2 496
+testing 14 2 697
+testing 53 1 633
+testing 60 2 327
+testing 8 1 595
+testing 19 1 704
+testing 31 2 360
+testing 37 2 210
+testing 11 2 748
+testing 60 2 301
+testing 18 2 159
+testing 26 2 188
+testing 13 2 244
+testing 8 2 362
+testing 47 1 574
+testing 51 2 320
+testing 16 1 630
+testing 55 2 872
+testing 32 2 603
+testing 29 2 693
+testing 52 2 427
+testing 28 1 706
+testing 42 1 714
+testing 48 2 800
+testing 17 2 652
+testing 23 2 423
+testing 50 2 688
+testing 31 2 376
+testing 8 2 505
+testing 56 2 420
+testing 41 2 467
+testing 27 2 446
+testing 12 2 340
+testing 32 2 505
+testing 26 2 576
+testing 33 2 387
+testing 24 1 647
+testing 29 2 790
+testing 26 1 735
+testing 28 2 374
+testing 57 1 546
+testing 52 1 540
+testing 22 2 345
+testing 33 1 515
+testing 19 2 843
+testing 14 2 679
+testing 30 2 517
+testing 46 1 460
+testing 23 2 869
+testing 7 2 418
+testing 20 2 517
+testing 14 1 504
+testing 41 2 1134
+testing 30 2 695
+testing 45 1 400
+testing 48 2 855
+testing 56 1 593
+testing 13 2 858
+testing 32 2 630
+testing 37 2 439
+testing 15 1 255
+testing 47 2 302
+testing 10 2 709
+testing 27 1 353
+testing 59 2 702
+testing 20 1 453
+testing 36 1 559
+testing 25 1 599
+testing 58 1 212
+testing 51 2 322
+testing 31 2 281
+testing 29 2 269
+testing 42 2 221
+testing 31 2 275
+testing 44 1 400
+testing 42 2 383
+testing 37 2 220
+testing 48 2 1320
+testing 49 2 372
+testing 36 2 827
+testing 23 2 833
+testing 34 1 719
+testing 58 1 482
+testing 22 2 77
+testing 13 2 696
+testing 7 2 182
+testing 16 2 318
+testing 43 2 300
+testing 51 1 960
+testing 14 1 258
+testing 23 2 881
+testing 55 2 575
+testing 10 2 661
+testing 9 2 725
+testing 13 1 748
+testing 36 2 633
+testing 29 2 391
