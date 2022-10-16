@@ -77,7 +77,7 @@ def analyze_learning_dat(file_list):
 
         # Reshape and average
 
-        subject_data.update( {(fl[-8:-4]) : {'n3': np.array(acc_n3).reshape([13, 12],order='F').mean(axis=1),
+        subject_data.update( {(fl[-10:-4]) : {'n3': np.array(acc_n3).reshape([13, 12],order='F').mean(axis=1),
                   'm3': np.array(acc_m3).reshape([13, 12],order='F').mean(axis=1),
                   'n6': np.array(acc_n6).reshape([13, 18],order='F').mean(axis=1),
                   'm6': np.array(acc_m6).reshape([13, 18],order='F').mean(axis=1),
